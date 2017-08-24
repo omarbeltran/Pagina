@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Omar Beltran
 
-You can use the [editor on GitHub](https://github.com/omarbeltran/Pagina/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Estudiante de ingeniería de sistemas y computación, trabaje durante casi 5 años en una empresa de software contable.
+Actualmente no trabajo, decidi dedicarme a mi formación académica.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Intereses
 
 ```markdown
-Syntax highlighted code block
+Seguridad informática
+Arquitectura de software
+Desarrollo web
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omarbeltran/Pagina/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Email
+[contact](ojbeltranr@unal.edu.co)
