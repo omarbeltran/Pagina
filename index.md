@@ -1,5 +1,5 @@
 ## Omar José Beltrán Rodríguez
-![GSD1 phenotype]({{ BASE_PATH }}/assets/images/GSD1.pheno.png)
+![Imagen](FB_IMG_1488563076333.jpg)
 
 Estudiante de ingeniería de sistemas y computación, trabaje durante casi 5 años en una empresa de software contable.
 Actualmente no trabajo, decidí dedicarme a mi formación académica.
