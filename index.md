@@ -1,5 +1,4 @@
 ## Omar José Beltrán Rodríguez
-![Imagen](FB_IMG_1488563076333.jpg)
 
 Estudiante de ingeniería de sistemas y computación, trabaje durante casi 5 años en una empresa de software contable.
 Actualmente no trabajo, decidí dedicarme a mi formación académica.
@@ -23,6 +22,6 @@ Desarrollo web
 ### LINKS
 
 [contact](ojbeltranr@unal.edu.co)
-[Dragon_ball](http://dbsuperlatino.net/dragon-ball-super?page=12)
-
+[Dragon_ball](http://dbsuperlatino.net/dragon-ball-super?page=12) 
+[Efecto optico](http://xmirador.blogspot.com.co/2012/12/efecto-optico-de-desaparicion.html)
 
